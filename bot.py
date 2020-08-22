@@ -3,7 +3,6 @@ import os
 import helpers.pregenerator
 
 from discord.ext import commands
-from discord_logger import DiscordLogger
 
 
 class Bot(commands.Bot):
